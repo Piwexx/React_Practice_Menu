@@ -1,0 +1,2 @@
+En productItem podemos hacer un memo Y en los handle hacer un usecallback, para evitar
+el arbol de navidad :D 

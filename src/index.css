@@ -1,0 +1,12 @@
+body{
+    background-color:coral;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
+    gap: 12px;
+}
+
+.card{
+    border:1px solid white ;
+}

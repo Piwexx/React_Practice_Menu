@@ -1,0 +1,164 @@
+{
+    "products": [
+      {
+        "quantity": 50,
+        "price": 3.99,
+        "available": true,
+        "sublevel_id": 1,
+        "name": "Manzanas",
+        "id": "P001"
+      },
+      {
+        "quantity": 30,
+        "price": 2.49,
+        "available": true,
+        "sublevel_id": 2,
+        "name": "Arroz",
+        "id": "P002"
+      },
+      {
+        "quantity": 40,
+        "price": 1.99,
+        "available": false,
+        "sublevel_id": 3,
+        "name": "Lechuga",
+        "id": "P003"
+      },
+      {
+        "quantity": 25,
+        "price": 5.99,
+        "available": true,
+        "sublevel_id": 1,
+        "name": "Pollo",
+        "id": "P004"
+      },
+      {
+        "quantity": 20,
+        "price": 4.99,
+        "available": true,
+        "sublevel_id": 2,
+        "name": "Pan integral",
+        "id": "P005"
+      },
+      {
+        "quantity": 15,
+        "price": 2.99,
+        "available": false,
+        "sublevel_id": 4,
+        "name": "Yogur natural",
+        "id": "P006"
+      },
+      {
+        "quantity": 35,
+        "price": 7.99,
+        "available": true,
+        "sublevel_id": 5,
+        "name": "Salmón",
+        "id": "P007"
+      },
+      {
+        "quantity": 28,
+        "price": 1.49,
+        "available": true,
+        "sublevel_id": 5,
+        "name": "Fideos",
+        "id": "P008"
+      },
+      {
+        "quantity": 10,
+        "price": 6.99,
+        "available": false,
+        "sublevel_id": 6,
+        "name": "Queso cheddar",
+        "id": "P009"
+      },
+      {
+        "quantity": 18,
+        "price": 3.49,
+        "available": true,
+        "sublevel_id": 5,
+        "name": "Zanahorias",
+        "id": "P010"
+      },
+      {
+        "quantity": 22,
+        "price": 4.95,
+        "available": true,
+        "sublevel_id": 2,
+        "name": "Tomates",
+        "id": "P011"
+      },
+      {
+        "quantity": 12,
+        "price": 8.99,
+        "available": false,
+        "sublevel_id": 3,
+        "name": "Chocolate negro",
+        "id": "P012"
+      },
+      {
+        "quantity": 15,
+        "price": 5.95,
+        "available": true,
+        "sublevel_id": 1,
+        "name": "Avena",
+        "id": "P013"
+      },
+      {
+        "quantity": 32,
+        "price": 2.99,
+        "available": true,
+        "sublevel_id": 2,
+        "name": "Aceitunas",
+        "id": "P014"
+      },
+      {
+        "quantity": 26,
+        "price": 9.99,
+        "available": false,
+        "sublevel_id": 3,
+        "name": "Miel",
+        "id": "P015"
+      },
+      {
+        "quantity": 14,
+        "price": 3.95,
+        "available": true,
+        "sublevel_id": 1,
+        "name": "Huevos",
+        "id": "P016"
+      },
+      {
+        "quantity": 18,
+        "price": 6.49,
+        "available": true,
+        "sublevel_id": 2,
+        "name": "Pescado blanco",
+        "id": "P017"
+      },
+      {
+        "quantity": 20,
+        "price": 4.49,
+        "available": false,
+        "sublevel_id": 3,
+        "name": "Cereal",
+        "id": "P018"
+      },
+      {
+        "quantity": 24,
+        "price": 7.95,
+        "available": true,
+        "sublevel_id": 1,
+        "name": "Ajo",
+        "id": "P019"
+      },
+      {
+        "quantity": 16,
+        "price": 5.99,
+        "available": true,
+        "sublevel_id": 2,
+        "name": "Papas",
+        "id": "P020"
+      }
+    ]
+  }

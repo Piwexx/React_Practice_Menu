@@ -1,0 +1,107 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Frutas",
+        "sublevels": [
+          {
+            "id": 1,
+            "name": "Cítricos",
+            "sublevels": [
+              {
+                "id": 111,
+                "name": "Naranjas"
+              },
+              {
+                "id": 112,
+                "name": "Limones"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Tropicales",
+            "sublevels": [
+              {
+                "id": 121,
+                "name": "Piña"
+              },
+              {
+                "id": 122,
+                "name": "Mango"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Vegetales",
+        "sublevels": [
+          {
+            "id": 3,
+            "name": "Verdes",
+            "sublevels": [
+              {
+                "id": 211,
+                "name": "Espinacas"
+              },
+              {
+                "id": 212,
+                "name": "Brócoli"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "name": "Raíces",
+            "sublevels": [
+              {
+                "id": 221,
+                "name": "Zanahorias"
+              },
+              {
+                "id": 222,
+                "name": "Remolachas"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Productos Horneados",
+        "sublevels": [
+          {
+            "id": 5,
+            "name": "Pan",
+            "sublevels": [
+              {
+                "id": 311,
+                "name": "Pan integral"
+              },
+              {
+                "id": 312,
+                "name": "Pan de ajo"
+              }
+            ]
+          },
+          {
+            "id": 6,
+            "name": "Pasteles",
+            "sublevels": [
+              {
+                "id": 321,
+                "name": "Pastel de chocolate"
+              },
+              {
+                "id": 322,
+                "name": "Tarta de manzana"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
